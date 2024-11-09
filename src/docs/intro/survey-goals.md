@@ -4,7 +4,7 @@ Artificial intelligence is a broad set of software capabilities that make your s
 
 ## Applications of AI
 
-One way to think of what AI enables to is consider what it will make cheap and thereby ubiquitous. A Harvard Business Review article titled ["The Simple Economics of Machine Intelligence"](https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence) published in November 2016 argued that AI would make predictions cheap. Let's expand on this idea. AI will make predictions cheap, true, but it will make other things cheap as well:
+One way to think of what AI enables is to consider what it will make cheap and thereby ubiquitous. A Harvard Business Review article titled ["The Simple Economics of Machine Intelligence"](https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence) published in November 2016 argued that AI would make predictions cheap. Let's expand on this idea. AI will make predictions cheap, true, but it will make other things cheap as well:
 * Enabling things that move to drive or fly or sail themselves
 * Understand people and objects and their relationships in the real world
 * Optimize complex systems, such as driving patterns or electricity consumption in data centers
@@ -13,13 +13,13 @@ One way to think of what AI enables to is consider what it will make cheap and t
 
 To see some examples of each of these AI-powered applications, please visit our [companion presentation called The Promise of AI](https://vimeo.com/215926017). It's a 45-minute narrated presentation showing you what companies are doing with AI today, as well as what's right around the corner in research labs.
 
-For further inspiration, subscribe to one or more of the the many excellent daily or weekly newsletters covering artificial intelligence. We list a few in our [References](/docs/reference/links) section.
+For further inspiration, subscribe to one or more of the many excellent daily or weekly newsletters covering artificial intelligence. We list a few in our [References](/docs/reference/links) section.
 
 ## Applying AI to Your Business
 
 To get the most out of this survey, we recommend that you come up with a few concrete areas where you want to apply AI techniques. Having these in mind will ground your exploration in a concrete software product.
 
-Here are a a few ways you can brainstorm how AI can help:
+Here are a few ways you can brainstorm how AI can help:
 * Throughout each phase of the product or service lifecycle
 * For each of the functional teams in your organization
 * Achieve high-level business objectives
