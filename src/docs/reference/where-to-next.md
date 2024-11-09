@@ -9,4 +9,4 @@ Now that you are acquainted with some applications and methods in AI, here are s
 * Check out the [latest articles about machine learning at Distill](http://distill.pub/)
 * Watch technical talks from various past [Machine Learning Summer Schools](http://videolectures.net/site/search/?q=MLSS) or check out videos from the [2016 Deep Learning Summer School](http://videolectures.net/deeplearning2016_montreal/)
 * Use scikit-learn, a high level Python library, to conduct machine learning. [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
-* Dive into the [Machine Learning For Software Engineers rabbithole](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+* Dive into the [Machine Learning For Software Engineers rabbit hole](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
