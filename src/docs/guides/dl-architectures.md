@@ -17,7 +17,7 @@ From the input nodes data flows through the hidden nodes (if any) and to the out
 
 When feedforward networks have multiple layers, they are called multilayer networks.
 
-Create your own feedforward neural networks with the [browser-based TensorFlow playground](http://playground.tensorflow.org/). We did a brief demo in [our AI primer](http://a16z.com/2016/06/10/ai-deep-learning-machines/) (begining at about 27:17), but get in there and click around on your own. The things that you can change (depth of the network, the activation function, the learning rate, etc.) are called *hyperparameters*. So by clicking around in the playground, you are "modifying the hyperparameters of a feedforward multilayer neural network". Isn't that something?
+Create your own feedforward neural networks with the [browser-based TensorFlow playground](http://playground.tensorflow.org/). We did a brief demo in [our AI primer](http://a16z.com/2016/06/10/ai-deep-learning-machines/) (beginning at about 27:17), but get in there and click around on your own. The things that you can change (depth of the network, the activation function, the learning rate, etc.) are called *hyperparameters*. So by clicking around in the playground, you are "modifying the hyperparameters of a feedforward multilayer neural network". Isn't that something?
 
 ## Convolutional (Neural) Networks (CNNs or ConvNets)
 
@@ -67,7 +67,7 @@ Who said neural nets weren't fun?
 
 Together, these two enhancements over feedforward networks have made RNNs incredibly powerful tools for solving many different types of AI problems including speech recognition, language modeling, machine translation, image captioning, recommendation systems, predicting the next word in a sentence for text generation systems, and others.
 
-A specific type of RNN that you'll see discussed is called the Long Short-Term Memory (LSTM). Bizarre, no? Is the memory short or the long? Anyway, this type of RNN was introduced by [Hochreiter and Schmidhuber in 1997](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory) and does an even better job of remembering something from "further back in time" compared to vanilla RNNs. 
+A specific type of RNN that you'll see discussed is called the Long Short-Term Memory (LSTM). Bizarre, no? Is the memory short or long? Anyway, this type of RNN was introduced by [Hochreiter and Schmidhuber in 1997](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory) and does an even better job of remembering something from "further back in time" compared to vanilla RNNs. 
 
 To learn more:
 * [Edwin Chen's blog post](http://blog.echen.me/2017/05/30/exploring-lstms/) complete with cartoons of Snorlax and references to jelly donuts does an excellent job of explaining the basic concepts and comparing RNNs with LSTMs. 
